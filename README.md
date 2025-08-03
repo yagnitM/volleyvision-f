@@ -8,5 +8,5 @@ The prediction engine is trained on over 68,000 match data points spanning 25 ye
 Frontend: React, deployed on Vercel
 Backend: Python, FastAPI, deployed on Render
 
-![Home component](image.png)
-![Prediction Component](image-1.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
